@@ -6,11 +6,11 @@
 
 🚀 Skills
 
-Programming: Java, C#, JavaScript (Node.js, React), Python, SQL, NoSQL
+Programming: Java, C#, JavaScript (Node.js, React), Python, SQL, NoSQL, HTML, CSS
 
-Tools: Git, VS Code, IntelliJ, Visual Studio, Figma, Power BI
+Tools: Git, VS Code, IntelliJ, Visual Studio, Figma
 
-Cloud & Databases: Supabase, MongoDB, PostgreSQL, MySQL
+Cloud & Databases: MongoDB, PostgreSQL, MySQL
 
 📂 Projects
 
